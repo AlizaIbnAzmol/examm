@@ -1,0 +1,21 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+.container{
+
+	width: 1140px;
+	margin: 0 auto;
+ 
+}
+body{
+	background:url(../img/hi.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: aqua;
+}
+button {
+	
+}
